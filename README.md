@@ -29,5 +29,8 @@ Docker image: [https://hub.docker.com/r/jrosa6/fullcycle](https://hub.docker.com
 
 ```bash
 docker pull jrosa6/fullcycle
+```
+
+```bash
 docker run jrosa6/fullcycle
 ```
