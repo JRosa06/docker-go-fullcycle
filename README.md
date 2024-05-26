@@ -1,4 +1,4 @@
-# GoLang Challenge with Docker
+# Docker Challenge with GoLang
 
 ## Challenge
 
