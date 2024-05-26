@@ -25,7 +25,7 @@
 
 ## Solution
 
-Docker [image](https://hub.docker.com/r/jrosa6/fullcycle)
+Docker image: [https://hub.docker.com/r/jrosa6/fullcycle](https://hub.docker.com/r/jrosa6/fullcycle)
 
 ```bash
 docker pull jrosa6/fullcycle
