@@ -23,7 +23,7 @@
 >
 > Divirta-se!
 
-## Solution
+## Application
 
 Docker image: [https://hub.docker.com/r/jrosa6/fullcycle](https://hub.docker.com/r/jrosa6/fullcycle)
 
